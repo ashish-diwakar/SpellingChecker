@@ -1,0 +1,10 @@
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\bin\Debug\SpellChecker.Test.dll
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\bin\Debug\SpellChecker.Test.pdb
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\bin\Debug\SpellChecker.dll
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\bin\Debug\SpellChecker.pdb
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\obj\Debug\SpellChecker.Test.csproj.AssemblyReference.cache
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\obj\Debug\SpellChecker.Test.csproj.CoreCompileInputs.cache
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\obj\Debug\SpellChecker.Test.csproj.CopyComplete
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\obj\Debug\SpellChecker.Test.dll
+D:\Ashish\SpellChecker-master\SpellChecker\SpellChecker.Test\obj\Debug\SpellChecker.Test.pdb
